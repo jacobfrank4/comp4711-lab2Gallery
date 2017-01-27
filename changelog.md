@@ -53,3 +53,15 @@ Release Date: n/a
 
     -   welcome_message
     -   index.html
+    
+## *Version 1.01 bugfix
+
+## Updated Components
+
+-   controllers
+
+    -   About
+    -   Gallery
+
+    
+
